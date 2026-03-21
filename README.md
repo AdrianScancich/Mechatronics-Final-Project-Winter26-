@@ -5,6 +5,7 @@ This repository contains the software for an autonomous Romi robot developed ove
 
 Project Website  
 Additional documentation, videos, and results can be found here:  
+https://adrianscancich.github.io/ME405-Final-Project-Mecha14/  
 
 ## Repository Overview
 - `main.py` – System entry point and scheduler initialization  
