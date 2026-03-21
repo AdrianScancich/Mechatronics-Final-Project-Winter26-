@@ -314,3 +314,12 @@ This modular structure allows each subsystem to operate independently while cont
 ## Summary
 
 The software architecture emphasizes modularity, real-time execution, and structured communication between tasks. Hardware-specific behavior is isolated in driver files, while higher-level tasks coordinate sensing, estimation, and control through a shared scheduling framework. This structure enables the robot to reliably perform line following, trajectory tracking, and autonomous navigation.
+
+---
+
+## Site Navigation
+
+- [Home](index.md)
+- [Hardware](hardware.md)
+- [Results](results.md)
+- [Repository Map](repo-map.md)
