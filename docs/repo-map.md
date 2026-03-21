@@ -46,3 +46,12 @@ This repository is organized into a modular structure separating hardware driver
 ## Summary
 
 The repository is structured to separate hardware interaction, control logic, and system coordination. This modular design allows each component to be developed and tested independently while supporting reliable real-time operation.
+
+---
+
+## Site Navigation
+
+- [Home](index.md)
+- [Hardware](hardware.md)
+- [Software Architecture](software.md)
+- [Results](results.md)
