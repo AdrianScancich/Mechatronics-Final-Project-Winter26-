@@ -38,6 +38,7 @@ Optional cups are available for time deductions if repositioned correctly; howev
 
 ## Site Navigation
 
+- [Home](index.md)
 - [Hardware](hardware.md)
 - [Software Architecture](software.md)
 - [Results](results.md)
