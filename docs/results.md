@@ -15,3 +15,12 @@ The robot begins the course in line-following mode, using the reflectance sensor
 [Watch on YouTube](https://youtu.be/B_vGlNqHEyo)
 
 The robot completed the full course in approximately 40 seconds per run. It was able to successfully complete three consecutive runs without requiring any manual intervention or external reorientation, demonstrating consistent performance and reliable system integration.
+
+---
+
+## Site Navigation
+
+- [Home](index.md)
+- [Hardware](hardware.md)
+- [Software Architecture](software.md)
+- [Repository Map](repo-map.md)
