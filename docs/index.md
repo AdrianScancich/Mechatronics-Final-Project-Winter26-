@@ -1,7 +1,7 @@
 # Romi Autonomous Robot Project
 
 <div align="center">
-  <img src="images/RomiOnTrack.jpg" alt="Romi robot on the course track" width="700">
+  <img src="images/RomiOnTrack.jpg" alt="Romi robot on the course track" width="400">
   <p><em>Autonomous Romi robot developed for Cal Poly ME 405.</em></p>
 </div>
 
